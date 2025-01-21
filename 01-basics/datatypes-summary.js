@@ -1,4 +1,4 @@
-// primitive
+// primitive - changes are made to the copy
 
 //  7 types : String, Number, Boolearn, null, undefined, Symbol, BigInt
 
@@ -18,7 +18,7 @@ console.log(id === anotherId);
 
 
 
-// Reference (Non primitive)
+// Reference (Non primitive) - changes are made to the original value (passed by reference)
 
 // Array, Objects, Functions
 // typeof non primitive datatypes is function
